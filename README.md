@@ -6,6 +6,15 @@
 
 **Django / DRF · FastAPI · React / Next.js · PostgreSQL · Redis / Celery · REST APIs · AI Integration**
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-DRF-092E20?logo=django&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-APIs-009688?logo=fastapi&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-Next.js-61DAFB?logo=react&logoColor=111111">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-Data-4169E1?logo=postgresql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-Celery-DC382D?logo=redis&logoColor=white">
+</p>
+
 I build full-stack products and backend systems with an emphasis on **clear architecture, API design, security boundaries, testable workflows, and production deployment**.
 
 [Portfolio](https://shahriyarkhan.com) · [LinkedIn](https://www.linkedin.com/in/shahriyar-khan-developer/) · [GitHub](https://github.com/Shahriyar-Kh)
