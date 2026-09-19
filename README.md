@@ -8,9 +8,8 @@ I build **backend-heavy web products and production APIs** using Python, Django,
 **Target roles:** Software Engineer · Backend Engineer · Python/Django Developer · Full-Stack Engineer  
 **Work interests:** International remote roles · Contract engineering · Selected freelance product work
 
-[LinkedIn](https://www.linkedin.com/in/shahriyar-kh/) · [Email](mailto:shahriyarkhanpk1@gmail.com) · [GitHub](https://github.com/Shahriyar-Kh) · [Portfolio](https://shahriyarkhan.com)
 
----
+
 
 ## Professional Summary
 
