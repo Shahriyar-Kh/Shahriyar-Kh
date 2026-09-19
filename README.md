@@ -1,109 +1,137 @@
-<div align="center">
-
 # Shahriyar Khan
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Python+Backend+%26+Full-Stack;Django+%7C+DRF+%7C+FastAPI+%7C+PostgreSQL;React+%7C+Next.js+%7C+Redis+%7C+Celery;Building+production-focused+software+systems" alt="Typing SVG" />
+### Software Engineer · Python Backend · Full-Stack Product Engineering
 
-**Software Engineer · Python / Django Backend · Full-Stack Product Engineering**
+I build **backend-heavy web products and production APIs** using Python, Django, Django REST Framework and FastAPI, with React/Next.js on the frontend when the product needs a complete full-stack delivery.
 
-I build API-driven web products and backend systems with an emphasis on **clear architecture, secure access boundaries, reliable data flows, testing, and production delivery**.
+**Current:** Contract-based engineering work with **TriCore Digital Tech**  
+**Target roles:** Software Engineer · Backend Engineer · Python/Django Developer · Full-Stack Engineer  
+**Work interests:** International remote roles · Contract engineering · Selected freelance product work
 
-<p>
-  <a href="https://www.linkedin.com/in/shahriyar-kh/">
-    <img src="https://img.shields.io/badge/LinkedIn-shahriyar--kh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:shahriyarkhanpk1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Shahriyar-Kh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile views">
-</p>
-
-**Currently:** working contract-based with **TriCore Digital Tech**
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/shahriyar-kh/) · [Email](mailto:shahriyarkhanpk1@gmail.com) · [GitHub](https://github.com/Shahriyar-Kh) · [Portfolio](https://shahriyarkhan.com)
 
 ---
 
-## Engineering Focus
+## Professional Summary
 
-| Backend & APIs | Product Engineering | Quality & Delivery |
-|---|---|---|
-| Python, Django, DRF, FastAPI | React, Next.js, TypeScript | pytest, Vitest, CI/CD |
-| REST APIs, JWT, RBAC | PostgreSQL, Redis, Celery | Docker, security checks |
-| validation, permissions, async work | admin/operations workflows | deployment & observability |
+I am a software engineer focused on **Python backend and full-stack product development**. My strongest work is around Django/DRF APIs, authentication and permission boundaries, relational data modeling, admin and operational workflows, background processing, testing, and deployment.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,nextjs,ts,js,postgres,redis,docker,git,github,postman,supabase,vercel,cloudflare&perline=8" alt="Technology stack">
-</p>
+Across product, client, and learning-platform work, I have built systems involving **PostgreSQL, Redis, Celery, JWT/RBAC, analytics, exports, AI integrations, CI/CD, Docker, and cloud deployment**.
 
-**Core stack:** Python · Django · Django REST Framework · FastAPI · React · Next.js · PostgreSQL · Redis · Celery · Docker
+I prefer practical architecture over unnecessary complexity: clear modules, explicit contracts, secure access boundaries, testable workflows, and infrastructure that matches the real scale of the product.
 
-**Also working with:** TypeScript · JavaScript · MongoDB · MySQL · Supabase · GitHub Actions · Render · Vercel · Cloudflare · AI provider integrations
+---
+
+## What I Bring to a Team
+
+- **Backend engineering** — REST APIs, Django/DRF, FastAPI, authentication, permissions, validation and business workflows
+- **Full-stack delivery** — React/Next.js frontends connected to production backend services
+- **Data & async systems** — PostgreSQL, Redis, Celery, caching, queues, exports and analytics
+- **Engineering quality** — pytest, Vitest, linting, type checks, CI/CD, migration checks and security-oriented delivery
+- **Product thinking** — internal admin tools, client workflows, user journeys and maintainable operational systems
+- **AI integration** — grounded assistants, structured AI outputs, quotas and provider integrations where AI supports a real product need
 
 ---
 
 ## Selected Engineering Work
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/Shahriyar-Kh/shahriyarkhan-portfolio-v1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahriyar-Kh&repo=shahriyarkhan-portfolio-v1&theme=tokyonight&hide_border=true" alt="Portfolio Platform">
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/Shahriyar-Kh/noteassist_ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahriyar-Kh&repo=noteassist_ai&theme=tokyonight&hide_border=true" alt="NoteAssist AI">
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/Shahriyar-Kh/yango-wing-fleet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahriyar-Kh&repo=yango-wing-fleet&theme=tokyonight&hide_border=true" alt="Yango Wing Fleet">
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/Shahriyar-Kh/SK_LearnTrack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahriyar-Kh&repo=SK_LearnTrack&theme=tokyonight&hide_border=true" alt="SK LearnTrack">
-</a>
-</td>
-</tr>
-</table>
+### Portfolio Platform
+**Next.js · React · Django REST Framework · PostgreSQL · Cloudflare · Railway**
 
-| Project | Engineering evidence |
-|---|---|
-| **[Portfolio Platform](https://github.com/Shahriyar-Kh/shahriyarkhan-portfolio-v1)** | Next.js + Django/DRF platform with dynamic portfolio content, grounded AI assistance, structured client discovery, CV/resume operations, SEO/JSON-LD and CI |
-| **[NoteAssist AI](https://github.com/Shahriyar-Kh/noteassist_ai)** · [Live](https://noteassistai.vercel.app/) | Django/DRF + React learning-productivity system with Groq AI workflows, Google OAuth/Drive, quotas, PostgreSQL, Redis/Celery and admin operations |
-| **[Yango Wing Fleet](https://github.com/Shahriyar-Kh/yango-wing-fleet)** · [Live](https://yango-wing-fleet.vercel.app/) | Client operations platform with driver onboarding, protected staff APIs, filtering, CSV exports, analytics, JWT and Django/React/PostgreSQL |
-| **[SK LearnTrack](https://github.com/Shahriyar-Kh/SK_LearnTrack)** · [Live](https://sk-learntrack.vercel.app/) | Course-management and learning platform with Django/DRF, React, JWT, PostgreSQL, progress workflows and Groq AI integration |
-| **[TechBuilt Open School](https://github.com/Shahriyar-Kh/TechBuilt_OS)** | Public-safe engineering showcase for a multilingual Django/DRF + Next.js education platform with PostgreSQL, Redis/Celery, OpenAPI and RTL foundations |
-| **[FeelWise](https://github.com/Shahriyar-Kh/feelwise-emotion-detection)** | Multi-service FastAPI + Node/Express + MongoDB project coordinating text, face, speech and journal analysis workflows |
-| **[Nurses Beyond Borders — LMS Case Study](./case-studies/nbb-lms.md)** | Public-safe case study of private client work: Django/DRF + Next.js, assessment workflows, entitlements, analytics, testing, Docker and VPS deployment design |
+A production-oriented personal engineering platform rather than a static portfolio. It includes dynamic project and service content, structured client project discovery, a grounded visitor assistant, private CV/resume operations, SEO/JSON-LD and CI.
 
-> I keep learning/internship repositories public as progression evidence, but the projects above represent my current engineering direction.
+**Engineering signal:** full-stack architecture, internal tooling, AI boundaries, document workflows, SEO and deployment.
+
+[Repository](https://github.com/Shahriyar-Kh/shahriyarkhan-portfolio-v1) · [Live](https://shahriyarkhan.com)
 
 ---
 
-## GitHub Engineering Activity
+### NoteAssist AI
+**Django · DRF · React · PostgreSQL · Redis · Celery · Groq · Google OAuth/Drive**
 
-<div align="center">
+A deployed learning-productivity platform for structured notes, AI-assisted study workflows, plans/quotas, Google integrations, exports, dashboards and administration.
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Kh&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Shahriyar Khan GitHub stats" />
+**Engineering signal:** async processing, third-party integrations, quota controls, AI workflows and admin operations.
 
-<img height="175" src="https://streak-stats.demolab.com?user=Shahriyar-Kh&theme=tokyonight&hide_border=true" alt="Shahriyar Khan GitHub streak" />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Kh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
-</div>
-
-<sub>Dynamic cards reflect public GitHub activity and may be cached by their providers.</sub>
+[Repository](https://github.com/Shahriyar-Kh/noteassist_ai) · [Live](https://noteassistai.vercel.app/)
 
 ---
 
-## How I Think About Systems
+### Yango Wing Fleet
+**Django REST Framework · React · TypeScript · PostgreSQL · JWT**
 
-I prefer the **simplest architecture that keeps boundaries clear**.
+A client operations platform supporting driver onboarding, inquiries, protected staff APIs, offers/trip bonuses, filtering, CSV exports and dashboard analytics.
+
+**Engineering signal:** real business workflows, staff authorization, operational dashboards, server-side filtering and exports.
+
+[Repository](https://github.com/Shahriyar-Kh/yango-wing-fleet) · [Live](https://yango-wing-fleet.vercel.app/)
+
+---
+
+### SK LearnTrack
+**Django REST Framework · React · PostgreSQL · JWT · Groq AI**
+
+A learning and course-management platform with course authoring, enrollment/progress workflows, notes, roadmaps, analytics and AI-assisted learning features.
+
+**Engineering signal:** relational product modeling, protected workflows, course operations and end-to-end API development.
+
+[Repository](https://github.com/Shahriyar-Kh/SK_LearnTrack) · [Live](https://sk-learntrack.vercel.app/)
+
+---
+
+### TechBuilt Open School
+**Django 5.2 · DRF · Next.js · PostgreSQL · Redis · Celery · OpenAPI · TypeScript**
+
+A public-safe engineering showcase for a multilingual education platform being developed with API contracts, explicit identity/authorization boundaries, multilingual/RTL foundations and phased engineering governance.
+
+**Engineering signal:** modular-monolith architecture, API contracts, security boundaries, multilingual foundations and CI/security gates.
+
+[Public Engineering Showcase](https://github.com/Shahriyar-Kh/TechBuilt_OS)
+
+---
+
+### FeelWise
+**FastAPI · Node.js/Express · MongoDB · PyTorch · DeepFace · Wav2Vec2**
+
+A multi-service portfolio project coordinating text, facial-expression, speech and journal analysis workflows through an API gateway and specialized Python services.
+
+**Engineering signal:** FastAPI services, service orchestration, MongoDB, AI/ML integrations and health-oriented service boundaries.
+
+[Repository](https://github.com/Shahriyar-Kh/feelwise-emotion-detection)
+
+---
+
+### Nurses Beyond Borders — LMS Case Study
+**Django/DRF · Next.js · Assessment Workflows · Analytics · Docker**
+
+Private client source with a public-safe engineering case study covering NCLEX/NGN assessment workflows, entitlements, analytics, testing and VPS deployment design.
+
+[Read Case Study](./case-studies/nbb-lms.md)
+
+---
+
+## Technical Stack
+
+**Backend**  
+`Python` · `Django` · `Django REST Framework` · `FastAPI` · `REST APIs` · `JWT` · `RBAC` · `OpenAPI`
+
+**Frontend**  
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Vite` · `Tailwind CSS`
+
+**Data & Background Work**  
+`PostgreSQL` · `Redis` · `Celery` · `MongoDB` · `MySQL` · `SQLite` · `Supabase`
+
+**Testing & Delivery**  
+`pytest` · `pytest-django` · `Vitest` · `GitHub Actions` · `Docker` · `Postman`
+
+**Cloud & Deployment**  
+`Render` · `Vercel` · `Railway` · `Cloudflare`
+
+---
+
+## Engineering Approach
+
+I prefer the simplest architecture that preserves clear responsibilities.
 
 ```text
 Client
@@ -114,52 +142,37 @@ Application / service layer
   ↓
 Domain + persistence
   ↓
-PostgreSQL / Redis / async workers
+PostgreSQL / Redis / background workers
 ```
 
-I use a modular monolith when transactional consistency and deployment simplicity matter more than premature service separation, and split services only when isolation, scaling, ownership, or deployment requirements justify it.
+For many product systems, that means a **well-structured modular monolith first**. I separate services when isolation, scaling, deployment, ownership or reliability requirements actually justify the additional complexity.
 
 ---
 
-## What I Build
+## GitHub Activity
 
-- **Backend systems:** REST APIs, authentication, authorization, validation, background processing and operational tooling
-- **Full-stack products:** React/Next.js clients backed by Django/DRF or FastAPI services
-- **Data workflows:** PostgreSQL-first relational systems, Redis caching/queues, exports, analytics and admin operations
-- **AI features:** grounded assistants, structured AI outputs, usage controls and provider integrations where AI solves a real product problem
-- **Production delivery:** testing, GitHub Actions, Docker, environment-based secrets, deployment checks and cloud hosting workflows
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shahriyar-Kh&theme=transparent&hide_border=true" alt="Shahriyar Khan GitHub contribution streak" />
+</div>
 
 ---
 
 ## Current Focus
 
-- Building and refining **production-focused Python/Django systems**
-- Developing **TechBuilt Open School** as a multilingual education platform
-- Strengthening architecture, testing, CI/CD, Docker and deployment practice
-- Creating engineering content around **real implementation decisions and trade-offs**
+- Production-focused **Python/Django backend engineering**
+- API architecture, authentication, permissions and operational tooling
+- Testing, CI/CD, Docker and deployment maturity
+- Building **TechBuilt Open School**
+- Engineering content based on real implementation decisions and trade-offs
 
 ---
 
-## Professional Links
+## Let’s Connect
+
+I am interested in **international software engineering opportunities**, remote backend/full-stack roles, contract engineering, and selected freelance product work.
 
 - **LinkedIn:** https://www.linkedin.com/in/shahriyar-kh/
-- **GitHub:** https://github.com/Shahriyar-Kh
 - **Email:** shahriyarkhanpk1@gmail.com
-- **Portfolio:** https://shahriyarkhan.com *(refresh in progress)*
+- **GitHub:** https://github.com/Shahriyar-Kh
+- **Portfolio:** https://shahriyarkhan.com *(portfolio refresh planned)*
 
-<div align="center">
-
-### Python · Django · DRF · FastAPI · React · Next.js · PostgreSQL · Redis · APIs · Software Engineering
-
-**Open to meaningful backend / full-stack engineering opportunities and selected product work.**
-
-</div>
-
-<!--
-Professional search context:
-Shahriyar Khan, Software Engineer, Python Developer, Django Developer,
-Django REST Framework Developer, Backend Engineer, Full-Stack Python Developer,
-FastAPI Developer, React Developer, Next.js Developer, PostgreSQL,
-Redis, Celery, REST API, API Development, Software Engineering,
-Remote Software Engineer, Pakistan.
--->
