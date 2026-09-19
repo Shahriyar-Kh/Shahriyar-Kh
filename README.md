@@ -7,8 +7,6 @@
 
 # Shahriyar Khan
 
-### Software Engineer · Python Backend · Full-Stack Product Engineering
-
 I build **backend-heavy web products and production APIs** using Python, Django, Django REST Framework and FastAPI, with React/Next.js on the frontend when the product needs a complete full-stack delivery.
 
 **Current:** Contract-based engineering work with **TriCore Digital Tech**  
