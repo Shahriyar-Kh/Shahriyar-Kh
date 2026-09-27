@@ -4,6 +4,20 @@
        width="100%" />
 </p>
 
+<h1 align="center">Shahriyar Khan</h1>
+
+<p align="center">
+  <strong>Software Engineer · Python/Django Backend Developer · Full-Stack Product Engineer</strong>
+</p>
+
+<p align="center">
+  Islamabad–Rawalpindi, Pakistan · Open to international remote roles and selected software projects
+</p>
+
+<p align="center">
+  Personal engineering profile of Shahriyar Khan (Shary), online as <strong>@Shahriyar-Kh</strong>.
+</p>
+
 ## Professional Profile
 
 I am a **Software Engineer specializing in Python backend and full-stack product engineering**, building production APIs, internal systems, and complete web products with **Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis/Celery, React, and Next.js**.
@@ -170,5 +184,4 @@ I am open to **international remote engineering roles, contract opportunities, a
 **LinkedIn:** https://www.linkedin.com/in/shahriyar-kh/  
 **Email:** shahriyarkhanpk1@gmail.com  
 **GitHub:** https://github.com/Shahriyar-Kh  
-**Portfolio:** https://shahriyarkhan.com *(refresh planned)*
-
+**Portfolio:** https://shahriyarkhan.com
